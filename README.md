@@ -1,6 +1,11 @@
 # Challenge #13 E-commerce Back End 
 University of Oregon Bootcamp 
 
+[Check out the video of back end functionality](https://drive.google.com/file/d/1l2k8FUjgBdNtTFyobQ-7pJL9Qnmgs9GX/view)
+## Screenshots of Insomnia 
+(./getproduct1.png)
+(./getproducts.png)
+
 ## User Story
 
 ```md
