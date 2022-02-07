@@ -26,13 +26,14 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 # Package Installations
-node.js package.json 
-mysql2 
-express 
-sequelize 
-dotenv 
+* node.js package.json 
+* mysql2 
+* express 
+* sequelize 
+* dotenv 
+* bcrypt
 
 
 
-Created by: [Miranda Thompson](https://github.com/MirandaT77)
+## Created by: [Miranda Thompson](https://github.com/MirandaT77)
 [Contact me via Email](ranileah7@gmail.com)
