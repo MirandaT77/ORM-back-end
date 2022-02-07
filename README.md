@@ -3,8 +3,8 @@ University of Oregon Bootcamp
 
 [Check out the video of back end functionality](https://drive.google.com/file/d/1l2k8FUjgBdNtTFyobQ-7pJL9Qnmgs9GX/view)
 ## Screenshots of Insomnia 
-[Photo](./getproduct1.png)
-[Photo](./getproducts.png)
+![Photo](./getproduct1.png)
+![Photo](./getproducts.png)
 
 ## User Story
 
