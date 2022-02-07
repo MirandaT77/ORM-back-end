@@ -1,4 +1,4 @@
-# Challenge #13 E-commerce Back End Starter Code
+# Challenge #13 E-commerce Back End 
 University of Oregon Bootcamp 
 
 ## User Story
